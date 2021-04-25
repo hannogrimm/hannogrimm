@@ -6,7 +6,7 @@
 <li>🎓 I develop for a Bachelor of Science in Software Engineering at CODE University.</li>
 <li>🌱 I’m currently learning DevOps and Applied Finance.</li>
 <li>👯 I’m looking to collaborate on experience-first developer tools.</li>
-<li>:wrench: My current side project is my personal website: [hgrimm.dev](https://hgrimm.dev)</li>
-<li>📫 How to reach me: [hanno.grimm@code.berlin](mailto:hanno.grimm@code.berlin)</li>
+<li>:wrench: My current side project is my personal website: <a href="https://hgrimm.dev">hgrimm.dev</a></li>
+<li>📫 How to reach me: <a href="mailto:hanno.grimm@code.berlin" target="_blank">hanno.grimm@code.berlin</a></li>
   </ul>
 </div>
